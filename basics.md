@@ -1,3 +1,0 @@
-##Basics
-
-###What is Modeling?
