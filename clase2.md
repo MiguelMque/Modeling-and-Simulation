@@ -20,7 +20,7 @@ Estructura matemática del sistema de las variables de estado.
 Siempre que tenemos un sistema hay que ver los datos, queremos buscar información que confirme nuestra creencia.
 
 
-## Hábitos de un pensador
+### Hábitos de un pensador
 
 - Balance: Depende de objetivo para saber que nivel de detalle necesito.
 - Patrones.
@@ -30,7 +30,7 @@ Siempre que tenemos un sistema hay que ver los datos, queremos buscar informaci�
 - Reconocer impacto de los retardos.
 - Conexiones significativas entre sistemas.
 
-### El proceso de modelado con Sistemas Dinámicos
+## El proceso de modelado con Sistemas Dinámicos
 
   Articulación (Limites) <-> Hipótesis <-> Formulación <-> Validación <-> Formula de políticas : Pensar qué se debe cambiar.
   
