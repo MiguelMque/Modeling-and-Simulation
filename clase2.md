@@ -35,26 +35,26 @@ Siempre que tenemos un sistema hay que ver los datos, queremos buscar informaci�
 ## El proceso
   Articulación (Limites) <-> Hipótesis <-> Formulación <-> Validación <-> Formula de políticas : Pensar qué se debe cambiar
   
-*Articulación del Problema* : Documentarse y buscar datos, identifico el problema real.
+**Articulación del Problema** : Documentarse y buscar datos, identifico el problema real.
         - Discución con el cliente
         - Investigación
         - Recolección e dats
         - Entrevistas
         - Observación directa y participación
  
- ⋅⋅*Modo de referencia*: Información cuantitativa o cualitativa.         
- ⋅⋅*Horizone de tiempo*: Pasado - Futuro, hacer el horizonte de tiempo dos o tres veces la longitud del retardo mas largo del sistema
+ **Modo de referencia**: Información cuantitativa o cualitativa.         
+ **Horizone de tiempo**: Pasado - Futuro, hacer el horizonte de tiempo dos o tres veces la longitud del retardo mas largo del sistema
         
-*Hipótesis dinámica*: Explicación endógena, interaccón de variables y agentes representados en el modelo
+**Hipótesis dinámica**: Explicación endógena, interaccón de variables y agentes representados en el modelo
 
-*Prueba*:
+**Prueba**:
 
-*Diseño de Políticas y Evaluación*:
+**Diseño de Políticas y Evaluación**:
 
 
 ## Diagramas causales
 
- *Notación*: Variables conectadas por fechas y polaridades
+*Notación*: Variables conectadas por fechas y polaridades
 
 
 *Refuerzo*: + La multiplicación de los signos del pedazo del signo, las variables refuerzan su comportamiento en la misma dirección
