@@ -3,8 +3,7 @@ Estrategia de aprendzaje
 Herramienta para facilitar el entendimiento
 Idioma en el cual se habla acerca de los sistemas
 
-### 
-Herramientas
+### Herramientas
 Gráficas de comportamient en el tiempo, analizando variables de interes
 
 
@@ -19,7 +18,7 @@ Estructura matemática del sistema de las variables de estado
 Siempre que tenemos un sistema hay que ver los datos, queremos buscar información que confirme nuestra creencia.
 
 
-##Hábitos de un pensador
+## Hábitos de un pensador
 
 - Balance: Depende de objetivo para saber que nivel de detalle necesito
 - Patrones
@@ -43,12 +42,11 @@ Siempre que tenemos un sistema hay que ver los datos, queremos buscar informaci�
         - Entrevistas
         - Observación directa y participación
  
-        ⋅⋅* Modo de referencia: Información cuantitativa o cualitativa.         
-        ..* Horizone de tiempo: Pasado - Futuro, hacer el horizonte de tiempo dos o tres veces la longitud del retardo mas largo del sistema
+        * Modo de referencia*: Información cuantitativa o cualitativa.         
+        * Horizone de tiempo*: Pasado - Futuro, hacer el horizonte de tiempo dos o tres veces la longitud del retardo mas largo del sistema
         
 *Hipótesis dinámica*: Explicación endógena, interaccón de variables y agentes representados en el modelo
 
-**
 
 
 *Prueba*:
@@ -58,11 +56,11 @@ Siempre que tenemos un sistema hay que ver los datos, queremos buscar informaci�
 
 ## Diagramas causales
 
-⋅⋅* *Notación*: Variables conectadas por fechas y polaridades
+ *Notación*: Variables conectadas por fechas y polaridades
 
 
-⋅⋅* Refuerzo: + La multiplicación de los signos del pedazo del signo, las variables refuerzan su comportamiento en la misma dirección
-⋅⋅* Balance: - La multiplicación de los signos del pedazo del signo
+* Refuerzo*: + La multiplicación de los signos del pedazo del signo, las variables refuerzan su comportamiento en la misma dirección
+* Balance*: - La multiplicación de los signos del pedazo del signo
 
 
   
