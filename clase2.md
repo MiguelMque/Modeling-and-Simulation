@@ -1,4 +1,6 @@
-# Pensamiento Sistémico
+# Barreras para el aprendizaje , Proceso de modelado
+
+## Pensamiento Sistémico
 - Estrategia de aprendizaje.
 - Herramienta para facilitar el entendimiento.
 - Idioma en el cual se habla acerca de los sistemas.
@@ -28,8 +30,6 @@ Siempre que tenemos un sistema hay que ver los datos, queremos buscar informaci�
 - Reconocer impacto de los retardos.
 - Conexiones significativas entre sistemas.
 
----
-
 ### El proceso de modelado con Sistemas Dinámicos
 
   Articulación (Limites) <-> Hipótesis <-> Formulación <-> Validación <-> Formula de políticas : Pensar qué se debe cambiar.
@@ -55,8 +55,8 @@ Siempre que tenemos un sistema hay que ver los datos, queremos buscar informaci�
 
 *Notación*: Variables conectadas por fechas y polaridades.
 
-
 *Refuerzo*: + La multiplicación de los signos del pedazo del signo, las variables refuerzan su comportamiento en la misma dirección.
+
 *Balance*: - La multiplicación de los signos del pedazo del signo.
 
 
