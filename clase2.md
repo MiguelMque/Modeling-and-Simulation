@@ -42,7 +42,7 @@ Siempre que tenemos un sistema hay que ver los datos, queremos buscar informaci�
         - Observación directa y participación
  
  **Modo de referencia**: Información cuantitativa o cualitativa.         
- **Horizone de tiempo**: Pasado - Futuro, hacer el horizonte de tiempo dos o tres veces la longitud del retardo mas largo del sistema
+ **Horizone de tiempo**: Dos o tres veces más que el que se tiene.
         
 **Hipótesis dinámica**: Explicación endógena, interaccón de variables y agentes representados en el modelo
 
