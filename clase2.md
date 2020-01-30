@@ -42,12 +42,10 @@ Siempre que tenemos un sistema hay que ver los datos, queremos buscar informaci�
         - Entrevistas
         - Observaci처n directa y participaci처n
  
-        * Modo de referencia*: Informaci처n cuantitativa o cualitativa.         
-        * Horizone de tiempo*: Pasado - Futuro, hacer el horizonte de tiempo dos o tres veces la longitud del retardo mas largo del sistema
+ *Modo de referencia*: Informaci처n cuantitativa o cualitativa.         
+ *Horizone de tiempo*: Pasado - Futuro, hacer el horizonte de tiempo dos o tres veces la longitud del retardo mas largo del sistema
         
 *Hip처tesis din찼mica*: Explicaci처n end처gena, interacc처n de variables y agentes representados en el modelo
-
-
 
 *Prueba*:
 
@@ -59,8 +57,8 @@ Siempre que tenemos un sistema hay que ver los datos, queremos buscar informaci�
  *Notaci처n*: Variables conectadas por fechas y polaridades
 
 
-* Refuerzo*: + La multiplicaci처n de los signos del pedazo del signo, las variables refuerzan su comportamiento en la misma direcci처n
-* Balance*: - La multiplicaci처n de los signos del pedazo del signo
+*Refuerzo*: + La multiplicaci처n de los signos del pedazo del signo, las variables refuerzan su comportamiento en la misma direcci처n
+*Balance*: - La multiplicaci처n de los signos del pedazo del signo
 
 
   
