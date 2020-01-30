@@ -34,14 +34,15 @@ Siempre que tenemos un sistema hay que ver los datos, queremos buscar informaci�
 
   Articulación (Limites) <-> Hipótesis <-> Formulación <-> Validación <-> Formula de políticas : Pensar qué se debe cambiar
   
-**Articulación del Problema** : Documentarse y buscar datos, identifico el problema real.
+**Articulación del Problema**: Documentarse y buscar datos, identifico el problema real.
         - Discución con el cliente
         - Investigación
         - Recolección e dats
         - Entrevistas
         - Observación directa y participación
  
- **Modo de referencia**: Información cuantitativa o cualitativa.         
+ **Modo de referencia**: Información cuantitativa o cualitativa.        
+ 
  **Horizone de tiempo**: Dos o tres veces más que el que se tiene.
         
 **Hipótesis dinámica**: Explicación endógena, interaccón de variables y agentes representados en el modelo
