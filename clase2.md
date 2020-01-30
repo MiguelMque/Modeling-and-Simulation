@@ -1,7 +1,7 @@
 # Pensamiento Sistémico
-Estrategia de aprendzaje
-Herramienta para facilitar el entendimiento
-Idioma en el cual se habla acerca de los sistemas
+- Estrategia de aprendizaje.
+- Herramienta para facilitar el entendimiento.
+- Idioma en el cual se habla acerca de los sistemas.
 
 ### Herramientas
 Gráficas de comportamient en el tiempo, analizando variables de interes.
