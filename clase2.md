@@ -30,9 +30,8 @@ Siempre que tenemos un sistema hay que ver los datos, queremos buscar informaci�
 
 ---
 
-### El proces de modelado con DS
+### El proceso de modelado con Sistemas Dinámicos
 
-## El proceso
   Articulación (Limites) <-> Hipótesis <-> Formulación <-> Validación <-> Formula de políticas : Pensar qué se debe cambiar
   
 **Articulación del Problema** : Documentarse y buscar datos, identifico el problema real.
@@ -50,7 +49,6 @@ Siempre que tenemos un sistema hay que ver los datos, queremos buscar informaci�
 **Prueba**:
 
 **Diseño de Políticas y Evaluación**:
-
 
 ## Diagramas causales
 
