@@ -1,5 +1,3 @@
-# Barreras para el aprendizaje , Proceso de modelado
-
 ## Pensamiento Sistémico
 - Estrategia de aprendizaje.
 - Herramienta para facilitar el entendimiento.
@@ -58,6 +56,3 @@ Siempre que tenemos un sistema hay que ver los datos, queremos buscar informaci�
 *Refuerzo*: + La multiplicación de los signos del pedazo del signo, las variables refuerzan su comportamiento en la misma dirección.
 
 *Balance*: - La multiplicación de los signos del pedazo del signo.
-
-
-  
