@@ -1,0 +1,94 @@
+{UTF-8}
+growthChange=
+	0.06-(0.03*(1+(resourcesPopulation^2)))
+	~	1/year
+	~		|
+
+netGrowth=
+	Population*growthChange
+	~	people/year
+	~		|
+
+Population= INTEG (
+	netGrowth,
+		10)
+	~	people
+	~		|
+
+resourcesCapacity=
+	100
+	~	people
+	~		|
+
+resourcesPopulation=
+	Population/resourcesCapacity
+	~	1
+	~		|
+
+********************************************************
+	.Control
+********************************************************~
+		Simulation Control Parameters
+	|
+
+FINAL TIME  = 300
+	~	year
+	~	The final time for the simulation.
+	|
+
+INITIAL TIME  = 0
+	~	year
+	~	The initial time for the simulation.
+	|
+
+SAVEPER  = 
+        TIME STEP 
+	~	year [0,?]
+	~	The frequency with which output is stored.
+	|
+
+TIME STEP  = 1
+	~	year [0,?]
+	~	The time step for the simulation.
+	|
+
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 1
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|96,96,100,0
+10,1,Population,432,227,40,20,3,3,0,0,0,0,0,0
+10,3,growthChange,213,329,46,11,8,3,0,0,0,0,0,0
+10,4,resourcesPopulation,461,321,65,9,8,3,0,0,0,0,0,0
+10,5,resourcesCapacity,587,311,58,11,8,3,0,0,0,0,0,0
+12,6,48,108,244,10,8,0,3,0,0,-1,0,0,0
+1,8,10,1,4,0,0,22,0,0,0,-1--1--1,,1|(326,241)|
+1,9,10,6,100,0,0,22,0,0,0,-1--1--1,,1|(183,241)|
+11,10,0,255,241,6,8,34,3,0,0,1,0,0,0
+10,11,netGrowth,255,260,34,11,40,3,0,0,-1,0,0,0
+1,12,3,10,1,0,0,0,0,64,0,-1--1--1,,1|(239,263)|
+1,13,1,10,1,0,0,0,0,64,0,-1--1--1,,1|(342,192)|
+1,14,1,4,1,0,0,0,0,64,0,-1--1--1,,1|(463,303)|
+1,15,4,3,1,0,0,0,0,64,0,-1--1--1,,1|(343,359)|
+1,16,5,4,1,0,0,0,0,64,0,-1--1--1,,1|(519,412)|
+///---\\\
+:L<%^E!@
+1:Current.vdf
+9:Current
+23:0
+15:0,0,0,0,0,0
+19:100,0
+27:0,
+34:0,
+4:Time
+5:netGrowth
+35:Date
+36:YYYY-MM-DD
+37:2000
+38:1
+39:1
+40:0
+41:0
+42:1
+24:0
+25:300
+26:300
